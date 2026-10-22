@@ -1,4 +1,0 @@
----
-layout: katalog
-title: "Kolej"
----
