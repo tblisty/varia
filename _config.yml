@@ -6,8 +6,8 @@ description: Strona zawierająca różne materiały.
 #  - just-the-docs
 
 # Adres URL Twojej strony
-url: "https://tombaczynski.github.io"
-baseurl: "/public"
+url: "https://tblisty.github.io"
+baseurl: "/varia"
 
 # Włączenie wbudowanej wyszukiwarki
 search_enabled: true
