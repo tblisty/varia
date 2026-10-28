@@ -46,8 +46,8 @@ main:has(.szeroka-tabela) {
 
 .inicjaly-nauczyciela {
     font-size: 50%;
-    border-top: none;
-    border-left: none;
+    border-top: none !important;
+    border-left: none !important;
     text-align: right;
 }
 
