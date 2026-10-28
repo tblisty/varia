@@ -34,20 +34,20 @@ main:has(.szeroka-tabela) {
 }
 
 .komorka-lekcji {
-    border-bottom: none !important;
+    border-bottom-style: hidden !important;
     text-align: center;
 }
 
 .numer-sali {
     font-size: 50%;
-    border-top: none;
-    border-right: none;
+    border-top-style: hidden !important;
+    border-right-style: hidden !important;
 }
 
 .inicjaly-nauczyciela {
     font-size: 50%;
-    border-top: none !important;
-    border-left: none !important;
+    border-top-style: hidden !important;
+    border-left-style: hidden !important;
     text-align: right;
 }
 
