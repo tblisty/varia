@@ -1,0 +1,193 @@
+---
+layout: katalog
+title: "Plan lekcji"
+---
+
+
+<link rel="stylesheet" href="./style.css">  
+
+# Plan lekcji
+
+<table class="szeroka-tabela">
+  <tr>
+    <th colspan="6" style="text-align: left; border-right: none; background-color: #2867a4; color: white;">Plan lekcji</th>
+    <th colspan="6" style="text-align: right; border-left: none; background-color: #2867a4; color: white;">22.10.2026</th>
+  </tr>
+  <tr style="background-color: #97eff7;">
+    <th>Lekcja</th>
+    <th>Godzina</th>
+    <th colspan="2">Poniedziałek</th>
+    <th colspan="2">Wtorek</th>
+    <th colspan="2">Środa</th>
+    <th colspan="2">Czwartek</th>
+    <th colspan="2">Piątek</th>
+  </tr>
+  <tr>
+    <td rowspan="2" class="komorka-numeru-lekcji">1</td>
+    <td rowspan="2" class="komorka-godzin-lekcji">8:00 - 8:45</td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #9370DB;">j.ang</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #9370DB;">j.ang</td>
+  </tr>
+  <tr>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali" style="background-color: #9370DB;"></td>
+    <td class="inicjaly-nauczyciela" style="background-color: #9370DB;">JW</td>
+    <td class="numer-sali" style="background-color: #9370DB;"></td>
+    <td class="inicjaly-nauczyciela" style="background-color: #9370DB;">JW</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="komorka-numeru-lekcji">2</td>
+    <td rowspan="2" class="komorka-godzin-lekcji">8:50 - 9:35</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #FDEDB8;">hist</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #9370DB;">j.ang</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #FDEDB8;">hist</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #cdf3bf;">geog</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f6d9d0;">biol</td>
+  </tr>
+  <tr>
+    <td class="numer-sali" style="background-color: #FDEDB8;">305</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #FDEDB8;">SK</td>
+    <td class="numer-sali" style="background-color: #9370DB;"></td>
+    <td class="inicjaly-nauczyciela" style="background-color: #9370DB;">JW</td>
+    <td class="numer-sali" style="background-color: #FDEDB8;">305</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #FDEDB8;">SK</td>
+    <td class="numer-sali" style="background-color: #cdf3bf;">205</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #cdf3bf;">KW</td>
+    <td class="numer-sali" style="background-color: #f6d9d0;">205</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f6d9d0;">KW</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="komorka-numeru-lekcji">3</td>
+    <td rowspan="2" class="komorka-godzin-lekcji">9:45 - 10:30</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f6d0dd;">j.pol</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f6d0dd;">j.pol</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f6d0dd;">j.pol</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #d0f6f5;">wf</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f3f6d0;">mat</td>
+  </tr>
+  <tr>
+    <td class="numer-sali" style="background-color: #f6d0dd;">201</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f6d0dd;">BP</td>
+    <td class="numer-sali" style="background-color: #f6d0dd;">201</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f6d0dd;">BP</td>
+    <td class="numer-sali" style="background-color: #f6d0dd;">201</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f6d0dd;">BP</td>
+    <td class="numer-sali" style="background-color: #d0f6f5;">sg1</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #d0f6f5;">KO</td>
+    <td class="numer-sali" style="background-color: #f3f6d0;">301</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f3f6d0;">AH</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="komorka-numeru-lekcji">4</td>
+    <td rowspan="2" class="komorka-godzin-lekcji">10:35 - 11:20</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f3f6d0;">mat</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #d0f6f5;">wf</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f6d0dd;">j.pol</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f3f6d0;">mat</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f6d0dd;">j.pol</td>
+  </tr>
+  <tr>
+    <td class="numer-sali" style="background-color: #f3f6d0;">301</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f3f6d0;">AH</td>
+    <td class="numer-sali" style="background-color: #d0f6f5;">sg1</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #d0f6f5;">KO</td>
+    <td class="numer-sali" style="background-color: #f6d0dd;">201</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f6d0dd;">BP</td>
+    <td class="numer-sali" style="background-color: #f3f6d0;">301</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f3f6d0;">AH</td>
+    <td class="numer-sali" style="background-color: #f6d0dd;">201</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f6d0dd;">BP</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="komorka-numeru-lekcji">5</td>
+    <td rowspan="2" class="komorka-godzin-lekcji">11:35 - 12:20</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #d0f6f5;">wf</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #aebbf9;">tech</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #fcb0ea;">e_zdr</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #feca8a;">z.wych</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #cefe8a;">infor</td>
+  </tr>
+  <tr>
+    <td class="numer-sali" style="background-color: #d0f6f5;">sg3</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #d0f6f5;">KO</td>
+    <td class="numer-sali" style="background-color: #aebbf9;">302</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #aebbf9;">MC</td>
+    <td class="numer-sali" style="background-color: #fcb0ea;">304</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #fcb0ea;">IS</td>
+    <td class="numer-sali" style="background-color: #feca8a;"></td>
+    <td class="inicjaly-nauczyciela" style="background-color: #feca8a;">JW</td>
+    <td class="numer-sali" style="background-color: #cefe8a;">303</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #cefe8a;">HC</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="komorka-numeru-lekcji">6</td>
+    <td rowspan="2" class="komorka-godzin-lekcji">12:35 - 13:20</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #d0f6f5;">wf</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #e4b3ff;">muz</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #f3f6d0;">mat</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #b3ffdd;">plas</td>
+    <td colspan="2" class="komorka-lekcji"></td>
+  </tr>
+  <tr>
+    <td class="numer-sali" style="background-color: #d0f6f5;">sg3</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #d0f6f5;">KO</td>
+    <td class="numer-sali" style="background-color: #e4b3ff;">204</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #e4b3ff;">ER</td>
+    <td class="numer-sali" style="background-color: #f3f6d0;">301</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #f3f6d0;">AH</td>
+    <td class="numer-sali" style="background-color: #b3ffdd;">304</td>
+    <td class="inicjaly-nauczyciela" style="background-color: #b3ffdd;">IS</td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="komorka-numeru-lekcji">7</td>
+    <td rowspan="2" class="komorka-godzin-lekcji">13:35 - 14:20</td>
+    <td colspan="2" class="komorka-lekcji" style="background-color: #ffcbb3;">rel18</td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+  </tr>
+  <tr>
+    <td class="numer-sali" style="background-color: #ffcbb3;"></td>
+    <td class="inicjaly-nauczyciela" style="background-color: #ffcbb3;">MS</td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="komorka-numeru-lekcji">8</td>
+    <td rowspan="2" class="komorka-godzin-lekcji">14:25 - 15:10</td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+    <td colspan="2" class="komorka-lekcji"></td>
+  </tr>
+  <tr>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+    <td class="numer-sali"></td>
+    <td class="inicjaly-nauczyciela"></td>
+  </tr>
+</table>

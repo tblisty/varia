@@ -1,0 +1,61 @@
+/* RESET KONTENERÓW GITHUBA DLA SZEROKIEJ TABELI */
+/* Te reguły zadziałają tylko na GitHub Pages i w VS Code */
+
+/* Rozpędzamy kontenery GitHuba, ale tylko wtedy, gdy na stronie pojawia się nasza szeroka tabela */
+body:has(.szeroka-tabela), 
+.markdown-body:has(.szeroka-tabela), 
+main:has(.szeroka-tabela) {
+    overflow: visible !important;
+    max-width: none !important;
+    width: auto !important;
+}
+
+/* FORMATOWANIE SZEROKIEJ TABELI */
+.szeroka-tabela {
+    display: table !important;
+    width: max-content !important;
+    max-width: none !important;
+    border: 1px solid #2867A4;
+    border-collapse: collapse;
+    /* border-radius: 19px; */
+    font-family: 'Roboto Cn', sans-serif;
+    background-color: #e1fcff;
+}
+
+:where(.szeroka-tabela) th,
+:where(.szeroka-tabela) td {
+    border: 1px solid #2867A4;
+    padding: 3px;
+}
+
+/* Blokowanie zawijania tekstu dla wierszy w szerokiej tabeli */
+.szeroka-tabela tr {
+    white-space: nowrap !important;
+}
+
+.komorka-lekcji {
+    border-bottom: none;
+    text-align: center;
+}
+
+.numer-sali {
+    font-size: 50%;
+    border-top: none;
+    border-right: none;
+}
+
+.inicjaly-nauczyciela {
+    font-size: 50%;
+    border-top: none;
+    border-left: none;
+    text-align: right;
+}
+
+.komorka-numeru-lekcji {
+    text-align: center;
+}
+
+.komorka-godzin-lekcji {
+    font-size: 85%;
+    background-color: #e6f8fa;
+}
