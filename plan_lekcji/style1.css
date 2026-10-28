@@ -34,7 +34,7 @@ main:has(.szeroka-tabela) {
 }
 
 .komorka-lekcji {
-    border-bottom: none;
+    border-bottom: none !important;
     text-align: center;
 }
 
